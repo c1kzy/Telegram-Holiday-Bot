@@ -9,7 +9,7 @@ import (
 	"time"
 	"weatherbot/internal"
 
-	tgapi "git.foxminded.ua/foxstudent106270/telegramapi.git"
+	tgapi "github.com/c1kzy/Telegram-API"
 	"github.com/phuslu/log"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
